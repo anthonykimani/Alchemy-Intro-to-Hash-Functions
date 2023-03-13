@@ -1,0 +1,23 @@
+{
+  "name": "alchemy-intro-to-hash-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonykimani/Alchemy-Intro-to-Hash-Functions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonykimani/Alchemy-Intro-to-Hash-Functions/issues"
+  },
+  "homepage": "https://github.com/anthonykimani/Alchemy-Intro-to-Hash-Functions#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
